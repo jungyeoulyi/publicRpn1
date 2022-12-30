@@ -1,4 +1,4 @@
 var branch = 'master';
 const tool = 'soucetree';
-let pul = 'firstpull';
+let pul = 'source tree pull';
 let push = 'sourcetree push';
